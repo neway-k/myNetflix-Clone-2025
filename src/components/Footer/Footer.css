@@ -8,7 +8,6 @@
   color: grey;
   display: flex;
   justify-content: center;
- 
 }
 .footer_inner_container {
   width: 60%;
@@ -18,7 +17,7 @@
 .footer_icons {
   display: flex;
   margin-left: 10px;
-  margin-bottom: 8PX;
+  margin-bottom: 8px;
   color: #fff;
   gap: 20px;
   font-size: 24px;
@@ -36,7 +35,7 @@
   height: 10vh;
   align-items: center;
   display: grid;
-   gap: 10px;
+  gap: 10px;
 }
 .footer_data ul li {
   cursor: pointer;
